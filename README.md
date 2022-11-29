@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 8 章：[追撃](docs/Chapter8A.md)
 - 9 章：[ワールの激流](docs/Chapter9A.md)
 - 10 章：[湖上の城](docs/Chapter10A.md)
 - 11 章：[ダルシス城](docs/Chapter11A.md)
