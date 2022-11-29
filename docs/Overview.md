@@ -1,6 +1,6 @@
 # ゲーム概要
 
-![SRPG](images/Overview/SRPG.jpg)
+![SRPG](../images/Overview/SRPG.jpg)
 
 ## ラングリッサーⅠ概要
 

@@ -12,6 +12,7 @@
 
 - [ゲーム概要](docs/Overview.md)
 - [体験版のバグ対応](docs/Trial.md)
+- [攻略基本情報](docs/Basics.md)
 - [参考リンク集](docs/Links.md)
 
 
