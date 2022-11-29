@@ -23,4 +23,5 @@
 
 ### A ルート
 
+- 12 章：[ツインキャッスル](docs/Chapter12A.md)
 - 13 章：[石像の町](docs/Chapter13A.md)
