@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 10 章：[湖上の城](docs/Chapter10A.md)
 - 11 章：[ダルシス城](docs/Chapter11A.md)
 - 12 章：[ツインキャッスル](docs/Chapter12A.md)
 - 13 章：[石像の町](docs/Chapter13A.md)
