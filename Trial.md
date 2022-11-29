@@ -11,12 +11,16 @@
 steam_api64.dll を体験版の実行ファイル（exe）と同じフォルダーにコピーすることで、体験版を起動できるようになります。
 
 コピー元：
-```C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo\Langrisser I & II_Demo_Data\Plugins```
+```
+C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo\Langrisser I & II_Demo_Data\Plugins
+```
 
 コピー先：
-```C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo```
+```
+C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo
+```
 
-体験版が起動できなかったために購入をやめてしまった人もいるのではないでしょうか。修正してもらうのが一番良いのですが、せめて公式サイトに情報を記載しておいて欲しいところです。
+体験版が起動できなかったために購入をやめてしまった人もいるのではないでしょうか。ユーザーにとっても開発元にとってももったいないことだと思います。修正してもらうのが一番良いのですが、せめて公式サイトに情報を記載しておいて欲しいところです。
 
 ## 参考リンク
 
