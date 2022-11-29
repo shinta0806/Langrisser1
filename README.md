@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 9 章：[ワールの激流](docs/Chapter9A.md)
 - 10 章：[湖上の城](docs/Chapter10A.md)
 - 11 章：[ダルシス城](docs/Chapter11A.md)
 - 12 章：[ツインキャッスル](docs/Chapter12A.md)
