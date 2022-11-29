@@ -23,4 +23,4 @@
 
 ### A ルート
 
-- 13 章 [石像の町](docs/Chapter13A.md)
+- 13 章：[石像の町](docs/Chapter13A.md)
