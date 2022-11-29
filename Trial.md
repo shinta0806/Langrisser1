@@ -22,3 +22,6 @@ steam_api64.dll を体験版の実行ファイル（exe）と同じフォルダ�
 
 - [Steam スレッド（英語）](https://steamcommunity.com/app/1060220/discussions/0/2246677986002006032/)
 
+<div align="right">
+  <a href="README.md">［ホームへ戻る］</a>
+</div>
