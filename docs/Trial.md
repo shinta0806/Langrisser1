@@ -1,6 +1,8 @@
 # 体験版のバグ対応
 
-![ロード画面](../images/Trial/Loading.jpg)
+<div>
+  <img src="../images/Trial/Loading.jpg" width="25%">
+</div>
 
 ## バグ内容
 
@@ -20,7 +22,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo\Langris
 C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo
 ```
 
-体験版が起動できなかったために購入をやめてしまった人もいるのではないでしょうか。ユーザーにとっても開発元にとってももったいないことだと思います。修正してもらうのが一番良いのですが、せめて公式サイトに情報を記載しておいて欲しいところです。
+自分の PC 環境でプレイできるかを確認するために体験版は重要ですが、体験版が起動できなかったために購入をやめてしまった人もいるのではないでしょうか。ユーザーにとっても開発元にとってももったいないことだと思います。修正してもらうのが一番良いのですが、せめて公式サイトに情報を記載しておいて欲しいところです。
 
 ## 参考リンク
 
