@@ -16,5 +16,5 @@
 - [Steam ストアページ](https://store.steampowered.com/app/1060220/III/)
 
 <div align="right">
-  <a href="README.md">［ホームへ戻る］</a>
+  <a href="../README.md">［ホームへ戻る］</a>
 </div>

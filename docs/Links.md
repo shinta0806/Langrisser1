@@ -6,3 +6,7 @@
 ## その他のゲーム
 
 - [渓谷の琵城](https://github.com/shinta0806/KeikokunoBijou)：A列車で行こう はじまる観光計画（Steam 版）の自作シナリオ紹介です。
+
+<div align="right">
+  <a href="../README.md">［ホームへ戻る］</a>
+</div>

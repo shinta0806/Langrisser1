@@ -10,8 +10,8 @@
 
 ## 目次
 
-- [ゲーム概要](Overview.md)
-- [体験版のバグ対応](Trial.md)
-- [参考リンク集](Links.md)
+- [ゲーム概要](docs/Overview.md)
+- [体験版のバグ対応](docs/Trial.md)
+- [参考リンク集](docs/Links.md)
 
 

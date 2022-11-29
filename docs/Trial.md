@@ -27,5 +27,5 @@ C:\Program Files (x86)\Steam\steamapps\common\Langrisser I &amp; II Demo
 - [Steam スレッド（英語）](https://steamcommunity.com/app/1060220/discussions/0/2246677986002006032/)
 
 <div align="right">
-  <a href="README.md">［ホームへ戻る］</a>
+  <a href="../README.md">［ホームへ戻る］</a>
 </div>
