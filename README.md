@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 7 章：[砦の勇者](docs/Chapter7A.md)
 - 8 章：[追撃](docs/Chapter8A.md)
 - 9 章：[ワールの激流](docs/Chapter9A.md)
 - 10 章：[湖上の城](docs/Chapter10A.md)
