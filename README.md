@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 6 章：[バルディア城の攻防](docs/Chapter6A.md)
 - 7 章：[砦の勇者](docs/Chapter7A.md)
 - 8 章：[追撃](docs/Chapter8A.md)
 - 9 章：[ワールの激流](docs/Chapter9A.md)
