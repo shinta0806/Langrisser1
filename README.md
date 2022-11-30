@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 4 章：[死霊の森](docs/Chapter4A.md)
 - 5 章：[帝国軍親衛隊](docs/Chapter5A.md)
 - 6 章：[バルディア城の攻防](docs/Chapter6A.md)
 - 7 章：[砦の勇者](docs/Chapter7A.md)
