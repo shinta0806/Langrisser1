@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 3 章：[襲撃](docs/Chapter3A.md)
 - 4 章：[死霊の森](docs/Chapter4A.md)
 - 5 章：[帝国軍親衛隊](docs/Chapter5A.md)
 - 6 章：[バルディア城の攻防](docs/Chapter6A.md)
