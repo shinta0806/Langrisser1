@@ -23,6 +23,7 @@
 
 ### A ルート
 
+- 2 章：[サルラスへ](docs/Chapter2A.md)
 - 3 章：[襲撃](docs/Chapter3A.md)
 - 4 章：[死霊の森](docs/Chapter4A.md)
 - 5 章：[帝国軍親衛隊](docs/Chapter5A.md)
