@@ -39,3 +39,4 @@
 - 13 章：[石像の町](docs/Chapter13A.md)
 - 14 章：[ウルフパック](docs/Chapter14A.md)
 - 15 章：[邪竜の叫び](docs/Chapter15A.md)
+- 16 章：[暗闇の中で](docs/Chapter16A.md)
