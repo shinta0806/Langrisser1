@@ -38,3 +38,4 @@
 - 12 章：[ツインキャッスル](docs/Chapter12A.md)
 - 13 章：[石像の町](docs/Chapter13A.md)
 - 14 章：[ウルフパック](docs/Chapter14A.md)
+- 15 章：[邪竜の叫び](docs/Chapter15A.md)
