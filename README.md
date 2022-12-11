@@ -41,3 +41,4 @@
 - 15 章：[邪竜の叫び](docs/Chapter15A.md)
 - 16 章：[暗闇の中で](docs/Chapter16A.md)
 - 17 章：[禁断の地ヴェルゼリア](docs/Chapter17A.md)
+- 18 章：[廃墟の中で](docs/Chapter18A.md)
