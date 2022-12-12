@@ -18,6 +18,7 @@
 - [体験版のバグ対応](docs/Trial.md)
 - [攻略基本情報](docs/Basics.md)
 - [クラスチェンジ](docs/ClassChanges.md)
+- [特殊範囲魔法](docs/SpecialMagics.md)
 - [参考リンク集](docs/Links.md)
 
 ## ストーリー攻略メモ（Steam 版）
