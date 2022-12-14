@@ -1,3 +1,5 @@
+Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
+
 # ゲーム概要
 
 ![SRPG](../images/Overview/SRPG.jpg)
