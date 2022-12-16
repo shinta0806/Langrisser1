@@ -19,6 +19,7 @@
 - [攻略基本情報](docs/Basics.md)
 - [クラスチェンジ](docs/ClassChanges.md)
 - [特殊範囲魔法](docs/SpecialMagics.md)
+- [英語表記](docs/English.md)
 - [参考リンク集](docs/Links.md)
 
 ## ストーリー攻略メモ（Steam 版）
