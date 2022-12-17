@@ -47,3 +47,7 @@
 - 18 章：[廃墟の中で](docs/Chapter18A.md)
 - 19 章：[地下神殿](docs/Chapter19A.md)
 - 20 章：[闇の封印](docs/Chapter20A.md)
+
+### B ルート
+
+- 18 章：[廃墟の中で](docs/Chapter18B.md)
