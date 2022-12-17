@@ -28,6 +28,9 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |サー・ガリウス|Sar Galious|
 |ゼルド|Xeld|
 |ディゴス|Digos|
+|ナーギャ|Nagya|
+|ニコリス|Nicolis|
+|ボーゼル|Boser|
 
 ## NPC
 
