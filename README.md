@@ -51,3 +51,4 @@
 ### B ルート
 
 - 18 章：[廃墟の中で](docs/Chapter18B.md)
+- 19 章：[地下神殿](docs/Chapter19B.md)
