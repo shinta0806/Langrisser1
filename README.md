@@ -53,3 +53,7 @@
 - 18 章：[廃墟の中で](docs/Chapter18B.md)
 - 19 章：[地下神殿](docs/Chapter19B.md)
 - 20 章：[闇の封印](docs/Chapter20B.md)
+
+### C ルート
+
+- 12 章：[ツインキャッスル](docs/Chapter12C.md)
