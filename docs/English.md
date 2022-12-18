@@ -38,6 +38,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |---|---|
 |イルザック|Illzach|
 |コッセル|Kossel|
+|ルシリス|Lucilis|
 
 <div align="right">
   <a href="../README.md">［ホームへ戻る］</a>

@@ -77,7 +77,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 
 ### 作戦
 
-基本的に [A ルート](docs/Chapter19A.md#作戦)と同じ作戦にしました。
+基本的に [A ルート](Chapter19A.md#作戦)と同じ作戦にしました。
 <div>
   <img src="../images/Chapter19B/Layout.jpg" width="25%">
 </div>
