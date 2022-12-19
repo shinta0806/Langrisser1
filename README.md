@@ -62,3 +62,4 @@
 
 - 12 章：[ツインキャッスル](docs/Chapter12C.md) → E ルートへ分岐
 - 13 章：[現れた闇](docs/Chapter13C.md)
+- 14 章：[闇の砦](docs/Chapter14C.md)
