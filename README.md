@@ -66,3 +66,4 @@
 - 15 章：[闇の大群](docs/Chapter15C.md)
 - 16 章：[闇の恐怖](docs/Chapter16C.md)
 - 17 章：[反撃の狼煙](docs/Chapter17C.md)
+- 18 章：[禁断の地ヴェルゼリア](docs/Chapter18C.md)
