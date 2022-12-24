@@ -20,6 +20,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |ソーン|Thorn|
 |テイラー|Taylor|
 |ランス|Lance|
+|ベティ|Betty|
 |ライアス|Laias|
 |レティシア|Laetitia|
 |ディゴス|Digos|
