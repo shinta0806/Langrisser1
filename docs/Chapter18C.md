@@ -51,7 +51,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 
 クリア後、ディゴスが仲間になります。
 <div>
-  <img src="../images/Chapter17C/Digos.jpg" width="25%">
+  <img src="../images/Chapter18C/Digos.jpg" width="25%">
 </div>
 
 ## 攻略メモ

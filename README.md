@@ -54,12 +54,14 @@
 
 ### B ルート
 
+A ルート 17 章から
 - 18 章：[廃墟の中で](docs/Chapter18B.md)
 - 19 章：[地下神殿](docs/Chapter19B.md)
 - 20 章：[闇の封印](docs/Chapter20B.md)
 
 ### C ルート
 
+A ルート 11 章から
 - 12 章：[ツインキャッスル](docs/Chapter12C.md) → E ルートへ分岐
 - 13 章：[現れた闇](docs/Chapter13C.md)
 - 14 章：[闇の砦](docs/Chapter14C.md)
@@ -67,3 +69,4 @@
 - 16 章：[闇の恐怖](docs/Chapter16C.md)
 - 17 章：[反撃の狼煙](docs/Chapter17C.md)
 - 18 章：[禁断の地ヴェルゼリア](docs/Chapter18C.md)
+- 19 章：[地下神殿](docs/Chapter19C.md)
