@@ -79,3 +79,4 @@ C ルート 16 章から分岐
 - 17 章：[反撃の狼煙](docs/Chapter17D.md)
 - 18 章：[禁断の地ヴェルゼリア](docs/Chapter18D.md)
 - 19 章：[地下神殿](docs/Chapter19D.md)
+- 20 章：[最後の敵](docs/Chapter20D.md)
