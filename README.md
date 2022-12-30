@@ -92,3 +92,5 @@ C ルート 12 章から分岐
 - 16 章：[迷いの渦中](docs/Chapter16E.md)
 - 17 章：[定めた道](docs/Chapter17E.md)
 - 18 章：[帝国の最後](docs/Chapter18E.md)
+- 19 章：[堕ちた秘剣](docs/Chapter19E.md)
+- 20 章：[生きとし生けるものの敵](docs/Chapter20E.md)
