@@ -43,6 +43,17 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |コッセル|Kossel|
 |ルシリス|Lucilis|
 
+## 傭兵
+
+|日本語|英語|
+|---|---|
+|ヴァルキリー|Valkyrie|
+|スレイプニル|Sleipnir|
+|デーモンロード||
+|フェンリル|Fenrir|
+|フレイヤ|Freyja|
+
+
 <div align="right">
   <a href="../README.md">［ホームへ戻る］</a>
 </div>
