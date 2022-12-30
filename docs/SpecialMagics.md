@@ -29,4 +29,6 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
   <img src="../images/SpecialMagics/Teleport2.jpg" width="25%">
 </div>
 
-
+<div align="right">
+  <a href="../README.md">［ホームへ戻る］</a>
+</div>
