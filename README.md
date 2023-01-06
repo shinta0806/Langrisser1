@@ -101,3 +101,4 @@ C ルート 12 章から分岐
 E ルート 17 章から分岐
 - 18 章：[帝国の最後](docs/Chapter18F.md)
 - 19 章：[堕ちた秘剣](docs/Chapter19F.md)
+- 20 章：[生きとし生けるものの敵](docs/Chapter20F.md)
