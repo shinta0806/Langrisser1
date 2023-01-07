@@ -108,4 +108,5 @@ E ルート 17 章から分岐
 
 E ルート 14 章から分岐
 - 15 章：[共存の街](docs/Chapter15G.md)
-- 16 章：[かつての仲間](docs/Chapter16G.md)
+- 16 章：[かつての仲間](docs/Chapter16G.md) → H ルートへ分岐
+- 17 章：[洞窟の攻防](docs/Chapter17G.md)
