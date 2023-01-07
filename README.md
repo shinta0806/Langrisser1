@@ -88,7 +88,7 @@ C ルート 16 章から分岐
 
 C ルート 12 章から分岐
 - 13 章：[現れた闇](docs/Chapter13E.md)
-- 14 章：[闇の砦](docs/Chapter14E.md)
+- 14 章：[闇の砦](docs/Chapter14E.md) → G ルートへ分岐
 - 15 章：[混乱の帝国](docs/Chapter15E.md)
 - 16 章：[迷いの渦中](docs/Chapter16E.md)
 - 17 章：[定めた道](docs/Chapter17E.md) → F ルートへ分岐
