@@ -93,6 +93,9 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 <div>
   <img src="../images/Chapter17G/Boser2.jpg" width="25%">
 </div>
+<div>
+  <img src="../images/Chapter17G/Nagya.jpg" width="25%">
+</div>
 
 ### 反省点
 

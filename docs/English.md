@@ -25,6 +25,9 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |ライアス|Laias|
 |レティシア|Laetitia|
 |ディゴス|Digos|
+|ボーゼル|Boser|
+|ナーギャ|Nagya|
+|ニコリス|Nicolis|
 
 ## 敵キャラ
 
@@ -32,9 +35,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |---|---|
 |サー・ガリウス|Sar Galious|
 |ゼルド|Xeld|
-|ナーギャ|Nagya|
-|ニコリス|Nicolis|
-|ボーゼル|Boser|
+|ルシリス|Lucilis|
 
 ## NPC
 
@@ -42,7 +43,6 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |---|---|
 |イルザック|Illzach|
 |コッセル|Kossel|
-|ルシリス|Lucilis|
 
 ## 傭兵
 
@@ -53,7 +53,6 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 |デーモンロード||
 |フェンリル|Fenrir|
 |フレイヤ|Freyja|
-
 
 <div align="right">
   <a href="../README.md">［ホームへ戻る］</a>
