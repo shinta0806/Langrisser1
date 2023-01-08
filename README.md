@@ -111,3 +111,4 @@ E ルート 14 章から分岐
 - 16 章：[かつての仲間](docs/Chapter16G.md) → H ルートへ分岐
 - 17 章：[洞窟の攻防](docs/Chapter17G.md)
 - 18 章：[上陸妨害戦](docs/Chapter18G.md)
+- 19 章：[暗殺強襲](docs/Chapter19G.md)
