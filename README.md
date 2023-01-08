@@ -20,6 +20,7 @@
 - [クラスチェンジ](docs/ClassChanges.md)
 - [特殊範囲魔法](docs/SpecialMagics.md)
 - [召喚魔法](docs/SummonMagics.md)
+- [各ルートの感想等](docs/Impressions.md)
 - [周回プレイ](docs/Lap.md)
 - [英語表記](docs/English.md)
 - [参考リンク集](docs/Links.md)
