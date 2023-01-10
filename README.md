@@ -122,3 +122,4 @@ G ルート 16 章から分岐
 - 17 章：[洞窟の攻防](docs/Chapter17H.md)
 - 18 章：[上陸妨害戦](docs/Chapter18H.md)
 - 19 章：[暗殺強襲](docs/Chapter19H.md)
+- 20 章：[我が名はボーゼル](docs/Chapter20H.md)
