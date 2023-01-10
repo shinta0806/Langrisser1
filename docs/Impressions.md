@@ -11,6 +11,7 @@ Steam 版ラングリッサーⅠ＆Ⅱリメイク > ラングリッサーⅠ
 - [E ルート](https://shinta0806be.ldblog.jp/archives/10597146.html)
 - [F ルート](https://shinta0806be.ldblog.jp/archives/10599696.html)
 - [G ルート](https://shinta0806be.ldblog.jp/archives/10600289.html)
+- [H ルート](https://shinta0806be.ldblog.jp/archives/10601132.html)
 
 <div align="right">
   <a href="../README.md">［ホームへ戻る］</a>
